@@ -2,3 +2,14 @@
 body{
     font-family: 'Poppins',sans-serif!important;
 }
+.footer{
+    z-index: 999;
+    position: fixed;
+    bottom:25px;
+    font-size: 0.8em;
+    right: 25px;
+}
+.footer span a:hover{
+    color:red!important;
+    font-size: 1.2em;
+}
