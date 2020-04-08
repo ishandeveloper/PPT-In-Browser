@@ -1775,7 +1775,7 @@ footer .column h3 {
   margin: 0; }
 
 .flexblock.features li img {
-  width: 6.4rem; }
+  width: 100%; }
 
 .flexblock.features li span sup {
   font-size: 3rem; }
