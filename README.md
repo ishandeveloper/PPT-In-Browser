@@ -1,7 +1,7 @@
 ## PPT IN BROWSER
 Presentations that come alive right in your browser in a beautiful way. Try it out in your browser ;)
 
-<pre><a href="https://ishandeveloper.com/PPT-In-Browser/">VIEW LIVE DEMO</a></pre>
+<pre><a href="https://ishandeveloper.com/PPT-In-Browser/index.html">VIEW LIVE DEMO</a></pre>
 
 ##### Screenshots
 
